@@ -40,7 +40,7 @@
 (require 'quail)
 
 (quail-define-package
- "dvorak-russian" "Russian" "RU" nil
+ "mk-dvorak-russian" "Russian" "RU" nil
  "ЙЦУКЕН keyboard layout widely used in Russia (ISO 8859-5 encoding)
 assuming that your system keyboard layout is dvorak."
  nil t t t t nil nil nil nil nil t)
